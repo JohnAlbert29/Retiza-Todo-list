@@ -1,4 +1,4 @@
-// src/App.js
+// Retiza, John Albert J. BSIS NS 3A//
 import React, { useState } from "react";
 import "./App.css";
 
@@ -41,7 +41,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>Todo List</h1>
+      <h1>Retiza Todo List</h1>
       <div className="add-task">
         <input
           type="text"
